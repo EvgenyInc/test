@@ -4,10 +4,15 @@ body{
 .wrap{
 	width: 960px;
 	margin: 50px auto;
+	text-align: center;
+}
+.titles{
+	display: inline-block;
 }
 h1, h2, h3{
 	margin: 0;
 	text-transform: uppercase;
+	text-align: left;
 }
 .title-1{
 	font-size:60px;
