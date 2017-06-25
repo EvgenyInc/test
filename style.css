@@ -1,0 +1,21 @@
+body{
+	font-family: Arial;
+}
+.wrap{
+	width: 960px;
+	margin: 50px auto;
+}
+h1, h2, h3{
+	margin: 0;
+	text-transform: uppercase;
+}
+.title-1{
+	font-size:60px;
+	color: #5dc390;
+	margin-left: -10px;
+}
+.title-2{
+	color: #3285cd;
+}
+.title-3{
+}
