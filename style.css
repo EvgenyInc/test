@@ -20,7 +20,17 @@ h1, h2, h3{
 	margin-left: -10px;
 }
 .title-2{
+	font-size: 1.45em;
 	color: #3285cd;
 }
-.title-3{
+.btn-wrap{
+	text-align: center;
+	padding-top: 20px;
+}
+.btn{
+	color: #fff;
+	padding: 10px 20px;
+	background-color: #585858;
+	border-radius: 20px;
+	text-decoration: none;
 }
